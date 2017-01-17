@@ -1,0 +1,17 @@
+PODS:
+  - Charts (3.0.1):
+    - Charts/Core (= 3.0.1)
+  - Charts/Core (3.0.1)
+  - SwiftyUserDefaults (3.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  Charts: 0e84f4418e87dad6a9edde221fba37ebb51d3ba7
+  SwiftyUserDefaults: 0f1d45fc3aafb9064dac661e367f8f83fe21a4b4
+
+PODFILE CHECKSUM: 22fbabf0cd20454cb1713d9ecef12b10a7299af3
+
+COCOAPODS: 1.2.0.beta.1
